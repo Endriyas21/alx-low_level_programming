@@ -1,3 +1,5 @@
+0x04. C - More functions, more nested loops
+
 Requirements
 General
 Allowed editors: vi, vim, emacs
