@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * get_endianness - Checks the endianness of the system.
@@ -12,3 +12,4 @@ int get_endianness(void)
 
     return (*c);
 }
+
